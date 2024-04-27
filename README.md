@@ -1,4 +1,4 @@
-# Music Preferences analysis
+# Music Preferences Analysis
 **Data Analyst Bootcamp** @ Tripleten<br>
 Sprint 5 Project - Python Fundamentals
 
